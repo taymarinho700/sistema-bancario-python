@@ -10,6 +10,7 @@ Aplicação *backend* de sistema bancário desenvolvida em Python aplicando conc
 > 📌 **Nota de Autoria:** Projeto prático guiado, desenvolvido durante a formação na **Data Science Academy (DSA)**, mantendo a estrutura original de módulos do curso para fins educacionais e aprimorado para composição de portfólio.
 
 ---
+> 📖 **Estudo de Caso Executivo:** Para entender a arquitetura de negócios, regras de compliance e o estudo completo, [acesse o documento no Notion](https://daffodil-firewall-add.notion.site/Sistema-Banc-rio-em-Python-POO-Arquitetura-de-M-dulos-3a380684bf9b80cda9c5f25266c86469).
 
 ## 🎯 Objetivo do Projeto
 Desenvolver uma solução backend robusta e escalável capaz de gerenciar operações bancárias fundamentais (abertura de contas, depósitos, saques, transferências e emissão de extratos), garantindo a integridade dos dados e a separação clara de responsabilidades.
